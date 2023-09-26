@@ -16,7 +16,7 @@ SysVita OLM to PST Converter is a powerful and user-friendly tool designed to co
 
 ## System Requirements
 
-- Operating System: Windows 10/8.1/8/7/Vista/XP (32-bit or 64-bit)
+- Operating System: Windows 11/10/8.1/8/7/Vista/XP (32-bit or 64-bit)
 - Processor: 1 GHz or higher
 - RAM: 512 MB or more
 - Hard Disk Space: 50 MB of free space
