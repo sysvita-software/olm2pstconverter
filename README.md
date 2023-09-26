@@ -10,6 +10,8 @@ SysVita OLM to PST Converter is a powerful and user-friendly tool designed to co
 
 - **Selective Conversion:** Choose specific OLM files or folders for conversion, allowing you to select only the data you need.
 
+- **Cloud Conversion:** Choose specific OLM files or folders for conversion, allowing you to select only the data you need to Cloud as O365, Live Exchange Server, G-Suite, Yahoo, & AOL, etc.
+
 - **Data Integrity Preservation:** During the conversion process, SysVita OLM to PST Converter ensures that all email properties, attachments, and folder structures are retained, maintaining data integrity.
 
 - **No File Size Limitations:** The software can handle large OLM files without any file size limitations, making it suitable for both personal and professional use.
@@ -23,7 +25,7 @@ SysVita OLM to PST Converter is a powerful and user-friendly tool designed to co
 
 ## Installation
 
-1. Download SysVita OLM to PST Converter from the official website.
+1. Download SysVita [OLM to PST Converter](https://www.sysvita.com/olm-to-pst.php) from the official website.
 
 2. Run the installer and follow the on-screen instructions to install the software on your Windows computer.
 
@@ -45,7 +47,7 @@ If you encounter any issues or have questions about SysVita OLM to PST Converter
 
 ## License
 
-SysVita OLM to PST Converter is licensed under the [MIT License](LICENSE).
+SysVita OLM to PST Converter is licensed under the [MIT License]([LICENSE](https://www.sysvita.com/olm-to-pst/buy-now.php)).
 
 ## Acknowledgments
 
@@ -53,7 +55,7 @@ We would like to thank our users and contributors for their valuable feedback an
 
 ## Frequently Asked Questions
 
-Visit our [FAQ page](https://www.sysvita.com/faqs.html) for answers to common questions about the software.
+Visit our [FAQ page](https://www.sysvita.com/olm-to-pst.php) for answers to common questions about the software.
 
 ## Changelog
 
